@@ -1,4 +1,4 @@
-* Copied from https://github.com/softwareyoga/docker-tomcat-tutorial.git
+Copied from https://github.com/softwareyoga/docker-tomcat-tutorial.git
 
 # docker-tomcat-tutorial
 A basic tutorial on running a web app on Tomcat using Docker
