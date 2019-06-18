@@ -1,6 +1,7 @@
+* Copied from https://github.com/softwareyoga/docker-tomcat-tutorial.git
+
 # docker-tomcat-tutorial
 A basic tutorial on running a web app on Tomcat using Docker
-Copied from https://github.com/softwareyoga/docker-tomcat-tutorial.git
 
 # Steps
 * Install [Docker](https://docs.docker.com/install/).
